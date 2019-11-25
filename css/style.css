@@ -2,6 +2,12 @@ body{
   background-image: url(../img/bg-2.png);
 }
 
+.contenedor-preg{
+  text-align: center;
+}
+.titulo-preg{
+  text-align: center;
+}
 
 
 /* para pantalla menor de 1223px */
